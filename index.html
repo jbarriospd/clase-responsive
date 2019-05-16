@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
-    <i class="icon-menu"></i>
+<i class="icon-menu burger-button" id="burger-menu"></i>
 <header class="header">
     <div class="container">
         <figure class="logo">
@@ -32,7 +32,7 @@
 </header>
 <section class="hero">
     <div class="container">
-<!--        <iframe> src="https://platzi.com"frameborder="0"</iframe>-->
+        <!--        <iframe> src="https://platzi.com"frameborder="0"</iframe>-->
         <h1>
             Hola! Soy <strong>Leonidas Esteban</strong> <br/> Desarrollador <strong>Javascript</strong> con <br> pasión
             por la <strong>enseñanza</strong>
@@ -136,7 +136,7 @@
                             allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                             allowfullscreen></iframe>
                 </div>
-<!--                <img class="event-image" src="images/platzi-conf.jpg" width="500"/>-->
+                <!--                <img class="event-image" src="images/platzi-conf.jpg" width="500"/>-->
             </figure>
             <div class="event-detail">
                 <h3 class="event-title">PlatziConf México 2018</h3>
@@ -174,5 +174,31 @@
         </div>
     </div>
 </footer>
+<script>
+    const ipad = window.matchMedia('screen and (max-width: 767px)')
+    const menu = document.querySelector('.menu');
+    const burgerButton = document.querySelector('#burger-menu')
+
+
+    ipad.addListener(validation);
+
+    function validation(event) {
+        if (event.matches) {
+            burgerButton.addEventListener('click', () => {
+                menu.classList.toggle('is-active')
+            });
+            menu.addEventListener('click',() => {
+                menu.classList.remove('is-active');
+            });
+        }else{
+            burgerButton.removeEventListener('click', () => {
+                menu.classList.toggle('is-active')
+            });
+            menu.removeEventListener('click',() => {
+                menu.classList.remove('is-active');
+            });
+        }
+    }
+</script>
 </body>
 </html>

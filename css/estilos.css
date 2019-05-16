@@ -29,8 +29,8 @@ valores */
 
 @font-face {
     font-family: 'icomoon';
-    src:  url('../fonts/icomoon.eot?srnypm');
-    src:  url('../fonts/icomoon.eot?srnypm#iefix') format('embedded-opentype'),
+    src: url('../fonts/icomoon.eot?srnypm');
+    src: url('../fonts/icomoon.eot?srnypm#iefix') format('embedded-opentype'),
     url('../fonts/icomoon.ttf?srnypm') format('truetype'),
     url('../fonts/icomoon.woff?srnypm') format('woff'),
     url('../fonts/icomoon.svg?srnypm#icomoon') format('svg');
@@ -384,10 +384,12 @@ figure {
     height: inherit;
     flex-wrap: inherit;
 }
+
 .html-video {
     width: 100%;
     height: auto;
 }
+
 .youtube-video {
     position: absolute;
     top: 0;
@@ -398,6 +400,7 @@ figure {
     height: 100%;
     /*z-index: 3;*/
 }
+
 .flexible-video {
     width: 100%;
     height: 0px;
@@ -405,10 +408,27 @@ figure {
     background: #3d7302;
     position: relative;
 }
+
+.burger-button {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background: rgba(0, 0, 0, .8);
+    display: none;
+    line-height: 40px;
+    text-align: center;
+    position: fixed;
+    z-index: 4;
+    left: 5px;
+    top: 5px;
+    color: white;
+}
+
 @media screen and (max-width: 1024px) {
     .container {
         padding: 0 1em;
     }
+
     .hero {
         height: auto;
         position: relative;
@@ -436,6 +456,10 @@ figure {
 
 @media screen and (max-width: 767px) {
 
+    .burger-button {
+        display: block;
+    }
+
     .header {
         display: block;
         height: auto;
@@ -451,10 +475,32 @@ figure {
 
     .header a {
         justify-content: center;
+        height: 40px;
+        font-size: 1.5em;
+        text-decoration: underline;
+        margin-bottom: .5em;
     }
 
     .header .logo {
         text-align: center;
+    }
+
+    .menu {
+        position: fixed;
+        background: rgba(5,111,255,.9);
+        z-index: 3;
+        top: 0;
+        left: -100vw;
+        width: 100vw;
+        bottom: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+    .menu.is-active {
+        left: 0;
+        transition: .3s;
     }
 
     .project {
@@ -502,6 +548,7 @@ figure {
     h1 {
         font-size: 1.5em;
     }
+
     .project-details {
         font-size: 12px
     }
@@ -555,6 +602,7 @@ figure {
         text-shadow: 1px 2px 2px #000;
 
     }
+
     .hero {
         padding: 2em 1em;
     }

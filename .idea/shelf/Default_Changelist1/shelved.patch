@@ -1,0 +1,173 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"85f374e5-2e03-4b10-b6b4-a0e2833a9f5c\" name=\"Default Changelist\" comment=\"Init\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/css/estilos.css\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/css/estilos.css\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/index.html\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/index.html\" afterDir=\"false\" />\r\n    </list>\r\n    <ignored path=\"$PROJECT_DIR$/.tmp/\" />\r\n    <ignored path=\"$PROJECT_DIR$/temp/\" />\r\n    <ignored path=\"$PROJECT_DIR$/tmp/\" />\r\n    <option name=\"EXCLUDED_CONVERTED_TO_IGNORED\" value=\"true\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileEditorManager\">\r\n    <leaf SIDE_TABS_SIZE_LIMIT_KEY=\"300\">\r\n      <file pinned=\"false\" current-in-tab=\"false\">\r\n        <entry file=\"file://$PROJECT_DIR$/index.html\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"303\">\r\n              <caret line=\"53\" column=\"40\" selection-start-line=\"53\" selection-start-column=\"35\" selection-end-line=\"53\" selection-end-column=\"40\" />\r\n              <folding>\r\n                <element signature=\"n#header#0;n#body#0;n#html#0;n#!!top\" />\r\n                <element signature=\"n#article#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top\" />\r\n                <element signature=\"e#3307#3405#0\" />\r\n                <element signature=\"e#3406#5828#0\" />\r\n                <element signature=\"e#5829#6501#0\" />\r\n                <element signature=\"e#6502#6837#0\" />\r\n              </folding>\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n      <file pinned=\"false\" current-in-tab=\"true\">\r\n        <entry file=\"file://$PROJECT_DIR$/css/estilos.css\">\r\n          <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n            <state relative-caret-position=\"-5208\">\r\n              <caret line=\"16\" column=\"81\" lean-forward=\"true\" selection-start-line=\"16\" selection-start-column=\"81\" selection-end-line=\"16\" selection-end-column=\"81\" />\r\n            </state>\r\n          </provider>\r\n        </entry>\r\n      </file>\r\n    </leaf>\r\n  </component>\r\n  <component name=\"FindInProjectRecents\">\r\n    <findStrings>\r\n      <find>background-si</find>\r\n      <find>background-size</find>\r\n      <find>cover</find>\r\n      <find>contain</find>\r\n      <find>head</find>\r\n      <find>footer</find>\r\n      <find>hero</find>\r\n      <find>project-de</find>\r\n      <find>project</find>\r\n      <find>width</find>\r\n    </findStrings>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"IdeDocumentHistory\">\r\n    <option name=\"CHANGED_PATHS\">\r\n      <list>\r\n        <option value=\"$PROJECT_DIR$/index.html\" />\r\n        <option value=\"$PROJECT_DIR$/css/estilos.css\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectFrameBounds\" extendedState=\"6\">\r\n    <option name=\"x\" value=\"-7\" />\r\n    <option name=\"width\" value=\"1380\" />\r\n    <option name=\"height\" value=\"735\" />\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectView\">\r\n    <navigator proportions=\"\" version=\"1\">\r\n      <foldersAlwaysOnTop value=\"true\" />\r\n    </navigator>\r\n    <panes>\r\n      <pane id=\"Scope\" />\r\n      <pane id=\"ProjectPane\">\r\n        <subPane>\r\n          <expand>\r\n            <path>\r\n              <item name=\"desarrollo-web-portafolio-master\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"desarrollo-web-portafolio-master\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n            <path>\r\n              <item name=\"desarrollo-web-portafolio-master\" type=\"b2602c69:ProjectViewProjectNode\" />\r\n              <item name=\"desarrollo-web-portafolio-master\" type=\"462c0819:PsiDirectoryNode\" />\r\n              <item name=\"css\" type=\"462c0819:PsiDirectoryNode\" />\r\n            </path>\r\n          </expand>\r\n          <select />\r\n        </subPane>\r\n      </pane>\r\n    </panes>\r\n  </component>\r\n  <component name=\"PropertiesComponent\">\r\n    <property name=\"SHARE_PROJECT_CONFIGURATION_FILES\" value=\"true\" />\r\n    <property name=\"WebServerToolWindowFactoryState\" value=\"false\" />\r\n    <property name=\"last_opened_file_path\" value=\"$PROJECT_DIR$\" />\r\n    <property name=\"nodejs_interpreter_path.stuck_in_default_project\" value=\"undefined stuck path\" />\r\n    <property name=\"nodejs_npm_path_reset_for_default_project\" value=\"true\" />\r\n    <property name=\"settings.editor.selected.configurable\" value=\"preferences.sourceCode\" />\r\n  </component>\r\n  <component name=\"RunDashboard\">\r\n    <option name=\"ruleStates\">\r\n      <list>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"ConfigurationTypeDashboardGroupingRule\" />\r\n        </RuleState>\r\n        <RuleState>\r\n          <option name=\"name\" value=\"StatusDashboardGroupingRule\" />\r\n        </RuleState>\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"SvnConfiguration\">\r\n    <configuration />\r\n  </component>\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"85f374e5-2e03-4b10-b6b4-a0e2833a9f5c\" name=\"Default Changelist\" comment=\"\" />\r\n      <created>1557768734259</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1557768734259</updated>\r\n      <workItem from=\"1557768735475\" duration=\"14951000\" />\r\n      <workItem from=\"1557841699410\" duration=\"4954000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Clase 11\">\r\n      <created>1557787654496</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1557787654496</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TimeTrackingManager\">\r\n    <option name=\"totallyTimeSpent\" value=\"19905000\" />\r\n  </component>\r\n  <component name=\"ToolWindowManager\">\r\n    <frame x=\"-8\" y=\"-8\" width=\"1382\" height=\"744\" extended-state=\"6\" />\r\n    <layout>\r\n      <window_info content_ui=\"combo\" id=\"Project\" order=\"0\" visible=\"true\" weight=\"0.20238096\" />\r\n      <window_info id=\"Structure\" order=\"1\" side_tool=\"true\" weight=\"0.25\" />\r\n      <window_info id=\"Favorites\" order=\"2\" side_tool=\"true\" />\r\n      <window_info anchor=\"bottom\" id=\"Message\" order=\"0\" />\r\n      <window_info anchor=\"bottom\" id=\"Find\" order=\"1\" />\r\n      <window_info anchor=\"bottom\" id=\"Run\" order=\"2\" />\r\n      <window_info anchor=\"bottom\" id=\"Debug\" order=\"3\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"Cvs\" order=\"4\" weight=\"0.25\" />\r\n      <window_info anchor=\"bottom\" id=\"Inspection\" order=\"5\" weight=\"0.4\" />\r\n      <window_info anchor=\"bottom\" id=\"TODO\" order=\"6\" />\r\n      <window_info anchor=\"bottom\" id=\"Docker\" order=\"7\" show_stripe_button=\"false\" />\r\n      <window_info anchor=\"bottom\" id=\"Version Control\" order=\"8\" weight=\"0.3289689\" />\r\n      <window_info active=\"true\" anchor=\"bottom\" id=\"Terminal\" order=\"9\" visible=\"true\" weight=\"0.23731588\" />\r\n      <window_info anchor=\"bottom\" id=\"Event Log\" order=\"10\" side_tool=\"true\" />\r\n      <window_info anchor=\"right\" id=\"Commander\" internal_type=\"SLIDING\" order=\"0\" type=\"SLIDING\" weight=\"0.4\" />\r\n      <window_info anchor=\"right\" id=\"Ant Build\" order=\"1\" weight=\"0.25\" />\r\n      <window_info anchor=\"right\" content_ui=\"combo\" id=\"Hierarchy\" order=\"2\" weight=\"0.25\" />\r\n    </layout>\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"1\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"RECENTLY_FILTERED_USER_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"RECENTLY_FILTERED_BRANCH_GROUPS\">\r\n                <collection />\r\n              </option>\r\n              <option name=\"COLUMN_ORDER\">\r\n                <list>\r\n                  <option value=\"0\" />\r\n                  <option value=\"1\" />\r\n                  <option value=\"2\" />\r\n                  <option value=\"3\" />\r\n                </list>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Clase 11\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Clase 11\" />\r\n  </component>\r\n  <component name=\"editorHistoryManager\">\r\n    <entry file=\"file://$PROJECT_DIR$/portfolio.png\">\r\n      <provider selected=\"true\" editor-type-id=\"images\" />\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/index.html\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"303\">\r\n          <caret line=\"53\" column=\"40\" selection-start-line=\"53\" selection-start-column=\"35\" selection-end-line=\"53\" selection-end-column=\"40\" />\r\n          <folding>\r\n            <element signature=\"n#header#0;n#body#0;n#html#0;n#!!top\" />\r\n            <element signature=\"n#article#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top\" />\r\n            <element signature=\"e#3307#3405#0\" />\r\n            <element signature=\"e#3406#5828#0\" />\r\n            <element signature=\"e#5829#6501#0\" />\r\n            <element signature=\"e#6502#6837#0\" />\r\n          </folding>\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n    <entry file=\"file://$PROJECT_DIR$/css/estilos.css\">\r\n      <provider selected=\"true\" editor-type-id=\"text-editor\">\r\n        <state relative-caret-position=\"-5208\">\r\n          <caret line=\"16\" column=\"81\" lean-forward=\"true\" selection-start-line=\"16\" selection-start-column=\"81\" selection-end-line=\"16\" selection-end-column=\"81\" />\r\n        </state>\r\n      </provider>\r\n    </entry>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision edffac0a819d1a2d0aa9137695c3818d20dadaf8)
++++ .idea/workspace.xml	(date 1557872443540)
+@@ -1,7 +1,7 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+   <component name="ChangeListManager">
+-    <list default="true" id="85f374e5-2e03-4b10-b6b4-a0e2833a9f5c" name="Default Changelist" comment="Init">
++    <list default="true" id="85f374e5-2e03-4b10-b6b4-a0e2833a9f5c" name="Default Changelist" comment="">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/css/estilos.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/estilos.css" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+@@ -20,15 +20,11 @@
+       <file pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/index.html">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="303">
+-              <caret line="53" column="40" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="40" />
++            <state relative-caret-position="692">
++              <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+               <folding>
+                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                 <element signature="n#article#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+-                <element signature="e#3307#3405#0" />
+-                <element signature="e#3406#5828#0" />
+-                <element signature="e#5829#6501#0" />
+-                <element signature="e#6502#6837#0" />
+               </folding>
+             </state>
+           </provider>
+@@ -37,8 +33,8 @@
+       <file pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/css/estilos.css">
+           <provider selected="true" editor-type-id="text-editor">
+-            <state relative-caret-position="-5208">
+-              <caret line="16" column="81" lean-forward="true" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
++            <state relative-caret-position="318">
++              <caret line="421" column="3" lean-forward="true" selection-start-line="421" selection-start-column="3" selection-end-line="421" selection-end-column="3" />
+             </state>
+           </provider>
+         </entry>
+@@ -57,9 +53,12 @@
+       <find>project-de</find>
+       <find>project</find>
+       <find>width</find>
++      <find>100%</find>
++      <find>input</find>
+     </findStrings>
+   </component>
+   <component name="Git.Settings">
++    <option name="ROOT_SYNC" value="SYNC" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="IdeDocumentHistory">
+@@ -106,7 +105,7 @@
+     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
++    <property name="settings.editor.selected.configurable" value="Errors" />
+   </component>
+   <component name="RunDashboard">
+     <option name="ruleStates">
+@@ -131,7 +130,8 @@
+       <option name="presentableId" value="Default" />
+       <updated>1557768734259</updated>
+       <workItem from="1557768735475" duration="14951000" />
+-      <workItem from="1557841699410" duration="4954000" />
++      <workItem from="1557841699410" duration="11287000" />
++      <workItem from="1557859829725" duration="6755000" />
+     </task>
+     <task id="LOCAL-00001" summary="Clase 11">
+       <created>1557787654496</created>
+@@ -140,16 +140,23 @@
+       <option name="project" value="LOCAL" />
+       <updated>1557787654496</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="Clase 12">
++      <created>1557846882038</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1557846882038</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TimeTrackingManager">
+-    <option name="totallyTimeSpent" value="19905000" />
++    <option name="totallyTimeSpent" value="32993000" />
+   </component>
+   <component name="ToolWindowManager">
+     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+     <layout>
+-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20238096" />
++      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17038691" />
+       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+       <window_info id="Favorites" order="2" side_tool="true" />
+       <window_info anchor="bottom" id="Message" order="0" />
+@@ -161,8 +168,9 @@
+       <window_info anchor="bottom" id="TODO" order="6" />
+       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+       <window_info anchor="bottom" id="Version Control" order="8" weight="0.3289689" />
+-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.23731588" />
+-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
++      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.609375" visible="true" weight="0.21276596" />
++      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.390625" side_tool="true" weight="0.21276596" />
++      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+@@ -196,10 +204,25 @@
+         </entry>
+       </map>
+     </option>
++    <option name="RECENT_FILTERS">
++      <map>
++        <entry key="Branch">
++          <value>
++            <list />
++          </value>
++        </entry>
++        <entry key="User">
++          <value>
++            <list />
++          </value>
++        </entry>
++      </map>
++    </option>
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Clase 11" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Clase 11" />
++    <MESSAGE value="Clase 12" />
++    <option name="LAST_COMMIT_MESSAGE" value="Clase 12" />
+   </component>
+   <component name="editorHistoryManager">
+     <entry file="file://$PROJECT_DIR$/portfolio.png">
+@@ -207,23 +230,19 @@
+     </entry>
+     <entry file="file://$PROJECT_DIR$/index.html">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="303">
+-          <caret line="53" column="40" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="40" />
++        <state relative-caret-position="692">
++          <caret line="115" column="10" selection-start-line="115" selection-start-column="10" selection-end-line="115" selection-end-column="10" />
+           <folding>
+             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+             <element signature="n#article#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" />
+-            <element signature="e#3307#3405#0" />
+-            <element signature="e#3406#5828#0" />
+-            <element signature="e#5829#6501#0" />
+-            <element signature="e#6502#6837#0" />
+           </folding>
+         </state>
+       </provider>
+     </entry>
+     <entry file="file://$PROJECT_DIR$/css/estilos.css">
+       <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="-5208">
+-          <caret line="16" column="81" lean-forward="true" selection-start-line="16" selection-start-column="81" selection-end-line="16" selection-end-column="81" />
++        <state relative-caret-position="318">
++          <caret line="421" column="3" lean-forward="true" selection-start-line="421" selection-start-column="3" selection-end-line="421" selection-end-column="3" />
+         </state>
+       </provider>
+     </entry>
